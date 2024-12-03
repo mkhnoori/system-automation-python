@@ -1,7 +1,5 @@
 # - Integrate multiple automation tasks into a single, modular tool using argument parsing.
 
-
-
 import argparse
 import os
 import psutil
